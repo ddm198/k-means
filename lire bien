@@ -1,0 +1,9 @@
+# k-means
+mplémentation du clustering des fleurs d’Iris avec l’algorithme K-Means, Python et Scikit Learn
+Prérequis :
+Avant d’attaquer le vif du sujet, sachez qu’il faut disposer d’un certain nombre de prérequis :
+
+Avoir Python 3 sur son poste
+Importer les bibliothèques nécessaires  pandas , numpy ,matplotlib et scikit learn.
+Disposer de Jupyter pour les notebooks Python.
+Si vous vous connaissez bien en Python, vous pouvez installer manuellement ces prérequis. Sinon le plus simple est d’installer Anaconda qui vient avec la version 3 de Python. Vous pouvez lire mon article sur l’installation d’Anaconda pour réussir la configuration de ce dernier.
